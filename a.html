@@ -18,6 +18,12 @@ city=c.value;
 url="code.html?phone="+phone+"&city="+city;
 window.location.href=url;
 }
+function cc(c)
+{
+city=c.value;
+url="code-c.html?phone="+phone+"&city="+city;
+window.location.href=url;
+}
 </script>
     <body>
 	<form name="form1" method="post" action="">
@@ -25,7 +31,8 @@ window.location.href=url;
 	</form>
 	<form name="form2" method="post" action="">
 	您曾经前往的地址（中间请用英文半角,分开）<input name="input2" type="text"id="input2">
-	<input type="button" name="Submit" value="取值" onClick="p(input1);c(input2);">
+	<input type="button" name="Submit" value="电脑" onClick="p(input1);c(input2);">
+	<input type="button" name="Submit" value="手机" onClick="p(input1);cc(input2);">
 	</form>
     </body>
 </html>
