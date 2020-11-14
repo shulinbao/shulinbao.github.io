@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>第一页</title>
+    </head>
+<script>
+var phone;
+var city;
+var url;
+function p(p)
+{
+phone=p.value;
+}
+function c(c)
+{
+city=c.value;
+url="code.html?phone="+phone+"&city="+city;
+window.location.href=url;
+}
+</script>
+    <body>
+	<form name="form1" method="post" action="">
+	电话号码（请把中间四位改成****）<input name="input1" type="text" id="input1">
+	</form>
+	<form name="form2" method="post" action="">
+	您曾经前往的地址（中间请用英文半角,分开）<input name="input2" type="text"id="input2">
+	<input type="button" name="Submit" value="取值" onClick="p(input1);c(input2);">
+	</form>
+    </body>
+</html>
