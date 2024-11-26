@@ -4,6 +4,7 @@ collection: publications
 category: books
 permalink: /publication/book-1
 excerpt: 'This textbook is the most important one in the field of historical geography. Haonan is a key reviser and editor of this edition. The book covers topics such as the changes in climate, vegetation, river systems, coastlines, deserts, territorial boundaries, historical administrative divisions, population growth, distribution, and migration, regional development and geographical differences in ancient agriculture, the distribution and rise and fall of industries and mining over the dynasties, the historical changes in urban distribution and transportation routes, the regional differences in historical landscapes and their transformations, among others.'
+date: 2024-01-00
 paperurl: 'https://book.douban.com/subject/36739340/'
 ---
 
