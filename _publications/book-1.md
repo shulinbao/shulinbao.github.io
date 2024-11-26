@@ -1,5 +1,5 @@
 ---
-title: "Overview of Historical Geography of China (4th ed.). 中國歷史地理概述."
+title: "Overview of Historical Geography of China (4th ed.) 中國歷史地理概述"
 collection: publications
 category: books
 permalink: /publication/book-1
