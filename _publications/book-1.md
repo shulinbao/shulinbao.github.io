@@ -3,7 +3,7 @@ title: "Overview of Historical Geography of China (4th ed.) 中國歷史地理�
 collection: publications
 category: books
 permalink: /publication/book-1
-excerpt: 'Haonan is a key reviser and editor of this edition. The book covers topics such as the changes in climate, vegetation, river systems, coastlines, deserts, territorial boundaries, historical administrative divisions, population growth, distribution, and migration, regional development and geographical differences in ancient agriculture, the distribution and rise and fall of industries and mining over the dynasties, the historical changes in urban distribution and transportation routes, the regional differences in historical landscapes and their transformations, among others.'
+excerpt: 'Haonan serves as an important reviser and editor for this edition. The book addresses a broad range of topics, including changes in climate, vegetation, river systems, coastlines, deserts, and territorial boundaries. It also explores historical administrative divisions, population growth and migration, regional development, and geographical variations in ancient agriculture. Furthermore, the work examines the rise and decline of industries and mining across different dynasties, the historical evolution of urban distribution and transportation networks, as well as regional disparities in historical landscapes and their transformations.'
 date: 2024-10-01
 link: 'https://www.amazon.ca/%E4%B8%AD%E5%9B%BD%E5%8E%86%E5%8F%B2%E5%9C%B0%E7%90%86%E6%A6%82%E8%BF%B0%EF%BC%88%E7%AC%AC%E5%9B%9B%E7%89%88%EF%BC%89/dp/7572019137'
 citation: Zou, Y. L. (Ed.). (2024). Overview of Historical Geography of China (4th ed.). Shanghai Educational Publishing House.
