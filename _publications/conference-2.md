@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/conference-2
 link: 'https://history.bnu.edu.cn/docs/2023-11/ef87a405d174444898b311eca8f9393b.pdf'
-date: 2023-11-19
+date: 2023-03-04
 citation: 'Ma, H. (2023). “A Reexamination of Rongchengshi and Jiuzhou”〈容成氏〉與「九州」再考 [Paper presentation]. Hong Kong Youth Scholars Forum on Literature and History Studies, Hong Kong.'
 ---
 
