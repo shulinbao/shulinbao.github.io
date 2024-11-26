@@ -6,17 +6,17 @@
 
 main:
   - title: "Scholarly Works"
-    url: /steve-homepage/publications/  
+    url: /publications/  
 
   - title: "Teaching"
-    url: /steve-homepage/teaching/    
+    url: /teaching/    
     
   - title: "Portfolio"
-    url: /steve-homepage/portfolio/
+    url: /portfolio/
         
   - title: "Blog Posts"
-    url: /steve-homepage/year-archive/
+    url: /year-archive/
     
   - title: "CV"
-    url: /steve-homepage/cv/
+    url: /cv/
     
