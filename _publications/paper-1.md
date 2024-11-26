@@ -1,5 +1,5 @@
 ---
-title: "A Comparative Study on Three Annotations of _Fupu_ 〈賦譜〉三家校注平議"
+title: "A Comparative Study on Three Annotations of Fupu 〈賦譜〉三家校注平議"
 collection: publications
 category: manuscripts
 permalink: /publication/paper-1
