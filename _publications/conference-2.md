@@ -1,11 +1,9 @@
 ---
-title: 'A Reexamination of Rongchengshi and Jiuzhou”〈容成氏〉與「九州」再考'
+title: 'A Reexamination of Rongchengshi and Jiuzhou 〈容成氏〉與「九州」再考'
 collection: publications
 category: conferences
 permalink: /publication/conference-2
-link: 'https://history.bnu.edu.cn/docs/2023-11/ef87a405d174444898b311eca8f9393b.pdf'
+link: 'https://www.hkmu.edu.hk/tkpccc/2023%E5%B9%B4%E6%B4%BB%E5%8B%95/%E3%80%8C%E6%96%B0%E6%9D%90%E6%96%99%E8%88%87%E6%96%B0%E6%96%B9%E6%B3%95%E3%80%8D%EF%BC%9A%E7%AC%AC%E4%BA%8C%E5%B1%86%E6%96%87%E5%8F%B2%E7%A0%94%E7%A9%B6%E9%A6%99%E6%B8%AF%E9%9D%92%E5%B9%B4%E5%AD%B8/'
 date: 2023-03-04
 citation: 'Ma, H. (2023). “A Reexamination of Rongchengshi and Jiuzhou”〈容成氏〉與「九州」再考 [Paper presentation]. Hong Kong Youth Scholars Forum on Literature and History Studies, Hong Kong.'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
