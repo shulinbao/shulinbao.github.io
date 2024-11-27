@@ -8,8 +8,8 @@ main:
   - title: "Scholarly Works"
     url: /publications/  
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Code Projects"
+    url: /projects/    
     
   - title: "Portfolio"
     url: /portfolio/
