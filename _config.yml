@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Hi, It's Steve!"
 title_separator          : "-"
 name                     : &name "Steve Haonan MA 馬 郝楠"
-description              : &description "personal description"
+description              : &description "Creative Engineer / PhD Candidate @ Hong Kong Baptist University"
 url                      : https://gpt.nu.ac.cn # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "/steve-homepage" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -24,33 +24,33 @@ author:
   avatar           : "profile.png"
   name             : "Steve Haonan MA 馬 郝楠"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Scholar of Humanities / Creative Engineer / PhD Candidate at HKBU"
   location         : "Hong Kong"
   employer         : "Hong Kong Baptist University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "stevema@life.hkbu.edu.hk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # URL
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : # URL
+  researchgate     : "https://www.comm.hkbu.edu.hk/comd-www/english/academic_programmes/m_pg_phd.htm"
   scopus           : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "shulinbao"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
+  bluesky          : # Replace this with you Bluesky username
+  facebook         : "stevehaonanma"
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "haonan-ma-1b130a1ba"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
