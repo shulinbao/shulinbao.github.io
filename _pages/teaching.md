@@ -7,6 +7,8 @@ header:
   og_image: "research/ecdf.png"
 ---
 
+Hey, amazing students! Thank you so much for your incredible support—I love you all! 🎉 Unfortunately, my current job leans heavily towards administrative tasks, which means I can't teach as many courses as I'd like. **I'm on the lookout for new opportunities, especially teaching positions at some fantastic teaching universities. If you hear of any openings, please reach out to me! Thank you!** 
+
 ### Lecture - How to Become a PhD in Arts and Humanities?
 
 UIC, September 2024
