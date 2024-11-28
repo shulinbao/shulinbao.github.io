@@ -7,16 +7,22 @@ header:
   og_image: "research/ecdf.png"
 ---
 
+### Mystery-OCR
+
+- Mystery-OCR is a lightweight service deployed on Cloudflare Workers, designed for image OCR (Optical Character Recognition) and simple result visualization and processing. By providing an image, this service returns the extracted text information along with a visualized SVG polygon result.
+- Language: JavaScript
+- [Repo](https://github.com/shulinbao/Mystery-OCR)
+
 ### Stable Diffusion API to OpenAI API
 
 - This project converts the image generation API format of AUTOMATIC1111/stable-diffusion-webui (/sdapi/v1/txt2img) into OpenAI's universal API format (/v1/images/generations), allowing it to relay requests to models like DALL-E 3.
-- Languages: Python
+- Language: Python
 - [Repo](https://github.com/shulinbao/stable-diffusion-api-to-openai)
 
 ### Openai API Tester
 
 - A testing tool for OpenAI-format APIs that can be deployed on Cloudflare Workers.
-- Languages: JavaScript
+- Language: JavaScript
 - [Repo](https://github.com/shulinbao/openai-api-tester?tab=readme-ov-file)
 
 ### HorseAPI
@@ -28,17 +34,55 @@ header:
 ### BE Login
 
 - This is a JavaScript plugin for LiteLoaderBDS that supports basic external whitelists and login rewards.
-- Languages: JavaScript
+- Language: JavaScript
 - [Repo](https://github.com/shulinbao/minecraft-be-login)
 
 ### BE Health
 
 - A plugin for the LiteLoaderBDS platform that adds a scoreboard under players' names to display their health.
-- Languages: JavaScript
+- Language: JavaScript
 - [Repo](https://github.com/shulinbao/minecraft-be-health)
 
 ### BE Diepoint
 
 - A JavaScript plugin for LiteLoaderBDS to implement server-wide notifications, fee deductions, and death point recording upon player death.
-- Languages: JavaScript
+- Language: JavaScript
 - [Repo](https://github.com/shulinbao/minecraft-be-diepoint)
+
+### HorseAPI Website
+
+- Features of the website: A visually appealing interface, Day/Night mode toggle, Multi-language support (Simplified Chinese, Traditional Chinese, English), Support for HorseAPI redirection.
+- Language: HTML
+- [Repo](https://github.com/shulinbao/shulinbao.github.io)
+
+## Application & Products
+
+### HorseGPT
+- Open AI One-stop Platform.
+- [Link](https://gpt.nu.ac.cn/)
+
+### HorseGPT API
+- Provides API services for multiple large models, as well as user panels, token issuance, and other services to allow users to control AI usage.
+- [Link](https://oneapi.nu.ac.cn/)
+
+### HorseGPT Chat
+- Provides basic chat, text generation, and AI usage services through API access. HorseGPT Chat requires a password or HorseGPT API token for access. Developed based on Nextchat.
+- [Link](https://oneapi.nu.ac.cn/chat)
+
+### HorseGPT Chat Premium
+- A sophisticated AI chat platform that supports advanced features such as STT (Speech-to-Text) and RAG (Retrieval-Augmented Generation). Developed based on Open-Webui.
+- [Link](https://g.nu.ac.cn/)
+
+### Surfing Horse
+- A privacy-focused meta-search engine developed based on the Searxng project. 
+- [Link](https://shulinbao-search.hf.space/)
+
+### Mystery-OCR Service
+- A high-speed and efficient OCR service. Due to limited server performance, please set up your own instance for heavy usage.
+- [Link](ocr.nu.ac.cn)
+
+……
+
+#### [Check service availability](https://status.nu.ac.cn)
+
+
