@@ -12,7 +12,7 @@ title                    : "Hi, It's Steve!"
 title_separator          : "-"
 name                     : &name "Steve Haonan MA 馬 郝楠"
 description              : &description "Creative Engineer / PhD Candidate @ Hong Kong Baptist University"
-url                      : https://shulinbao.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://stevema.nu.ac.cn # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
