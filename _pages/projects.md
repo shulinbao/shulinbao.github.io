@@ -7,7 +7,12 @@ header:
   og_image: "research/ecdf.png"
 ---
 
-### Mystery-OCR
+### Cnbksy Crawler
+- This is a Python script designed for automating the download of image files from the "National Newspaper Index" (CNBKSY) and converting them into a PDF. The script uses the Selenium browser automation tool to download images from a specified webpage and ultimately merges these images into a single PDF file. Users can customize the download directory and the output PDF filename.
+- Language: Python
+- [Repo](https://github.com/shulinbao/cnbksy-crawler)
+
+### Mystery OCR
 
 - Mystery-OCR is a lightweight service deployed on Cloudflare Workers, designed for image OCR (Optical Character Recognition) and simple result visualization and processing. By providing an image, this service returns the extracted text information along with a visualized SVG polygon result.
 - Language: JavaScript
