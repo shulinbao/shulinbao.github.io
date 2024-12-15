@@ -7,6 +7,11 @@ header:
   og_image: "research/ecdf.png"
 ---
 
+### Historical Document Downloader
+- This is a Python-based GUI downloader application designed to interact with the API of a historical document database developed by a Chinese company. The application allows users to search for historical documents and download them as PDF files. The downloader does not require login and provides a user-friendly interface to search, select, and download documents.
+- Language: Python
+- [Repo](https://github.com/shulinbao/historical-documents-free-downloader)
+
 ### Cnbksy Crawler
 - This is a Python script designed for automating the download of image files from the "National Newspaper Index" (CNBKSY) and converting them into a PDF. The script uses the Selenium browser automation tool to download images from a specified webpage and ultimately merges these images into a single PDF file. Users can customize the download directory and the output PDF filename.
 - Language: Python
